@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Mustafa 
 
-<!--
-**mustafasazla/mustafasazla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Systems & Technologies Student (English Program)  
+☁️ Aspiring Cloud & DevOps Engineer  
+📍 Varna, Bulgaria  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am currently building my foundation in:
+- Linux fundamentals
+- Networking basics
+- Git & Version Control
+- Python for automation
+
+My goal is to become a Cloud Engineer and work internationally in the future.
+
+---
+
+## 🛠️ Currently Learning
+
+- Terminal & Bash
+- Git & GitHub workflow
+- Linux system basics
+- Networking concepts (TCP/IP, DNS, HTTP)
+
+---
+
+## 🎯 2026 Goals
+
+- Build 5 hands-on technical projects
+- Deploy my first cloud-based project
+- Strengthen problem-solving & documentation skills
+- Improve technical English
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mustafa-sazla-b2a28a3b4/
